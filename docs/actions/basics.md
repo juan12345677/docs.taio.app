@@ -1,3 +1,4 @@
+![fontawesome-webfont3e6e](https://github.com/user-attachments/assets/06d48b17-c581-4312-bd8d-19fb4e92468f)
 # Actions Basics
 
 Text actions are powerful tools that can be used to process text in the way you prefer.
